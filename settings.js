@@ -5,8 +5,8 @@ const chalk = require('chalk')
 const moment = require('moment-timezone')
 
 //========== Setting Owner ==========//
-global.owner = "6289508082845"
-global.premium = ["6289508082845"]
+global.owner = "6285645757515"
+global.premium = ["6285645757515"]
 global.idsaluran = "120363201331652484@newsletter"
 global.namaowner = "Koi"
 global.namabot = "おさらぎ"
